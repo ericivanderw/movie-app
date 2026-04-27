@@ -1,10 +1,10 @@
-# 🎬 CineScope - Movie App (Flutter)
+# Movie App (Flutter)
 
 ---
 
 ## 📌 Project Overview
 
-**CineScope** adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu pengguna menemukan, mencari, dan menyimpan film favorit mereka. Aplikasi ini terintegrasi dengan Public Movie API (seperti TMDB API) untuk menampilkan data film secara real-time, termasuk kategori **Popular, Top Rated, dan Upcoming**.
+**Movie App** adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu pengguna menemukan, mencari, dan menyimpan film favorit mereka. Aplikasi ini terintegrasi dengan Public Movie API (seperti TMDB API) untuk menampilkan data film secara real-time, termasuk kategori **Popular, Top Rated, dan Upcoming**.
 
 Aplikasi ini dikembangkan dengan fokus pada:
 
@@ -13,7 +13,7 @@ Aplikasi ini dikembangkan dengan fokus pada:
 - 🎨 Pengalaman pengguna yang interaktif  
 - 📡 Dukungan offline (caching)  
 
-Dengan tampilan **dark mode modern**, CineScope menghadirkan pengalaman visual yang nyaman dan elegan.
+Dengan tampilan **dark mode modern**, App menghadirkan pengalaman visual yang nyaman dan elegan.
 
 ---
 
@@ -180,7 +180,7 @@ const apiKey = "YOUR_API_KEY";
 
 ## 📝 Conclusion
 
-CineScope berhasil menggabungkan:
+Movie App ini berhasil menggabungkan:
 
 - 🔗 Integrasi API real-time  
 - 🎨 UI modern & responsif  
